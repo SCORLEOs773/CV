@@ -1,0 +1,11 @@
+.brandImg {
+    height: 50px;
+    width: 50px;
+}
+
+.aboutImg {
+    border: 3px solid black;
+    border-radius: 10px;
+    height: 900px;
+    width: 1000px;
+}
